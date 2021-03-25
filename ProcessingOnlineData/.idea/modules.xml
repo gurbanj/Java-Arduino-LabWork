@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaFXGraph_Arduino.iml" filepath="$PROJECT_DIR$/JavaFXGraph_Arduino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabJ.iml" filepath="$PROJECT_DIR$/LabJ.iml" />
     </modules>
   </component>
 </project>
